@@ -1,0 +1,16 @@
+GitHub Repository
+=================
+https://github.com/pranayak-uniyal/sales-pipeline-case7
+
+(Upload the project/ folder contents to this repo before submission)
+
+Structure:
+  pipeline/ingest.py
+  pipeline/transform.py
+  models/transforms.sql
+  dashboard/dashboard.py
+  DATA_CONTRACT.md
+  CFO_INVESTIGATION_GUIDE.md
+  DECISIONS.md
+  README.md
+  requirements.txt

@@ -1,0 +1,12 @@
+Demo Video Link
+===============
+[To be recorded after running the pipeline against the provided dataset]
+
+Suggested recording outline (5 min):
+1. Show folder structure & data
+2. Run: python pipeline/ingest.py  — show DQ log output
+3. Run: python pipeline/transform.py
+4. Launch: streamlit run dashboard/dashboard.py
+5. Walk through: KPIs → Daily Revenue → DQ panel → CFO guide
+
+Tool: Loom (https://loom.com) — free, no account required for viewers
